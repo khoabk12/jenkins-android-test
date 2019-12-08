@@ -1,0 +1,3917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Future HCMC Metro</name>
+    <description><![CDATA[Ho Chi Minh City Metro Concept Map - If Saigon had a subway like Shanghai <br>https://livinginasia.co/future-hcmc-metro/]]></description>
+    <Style id="icon-1899-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-nodesc-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-nodesc-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-3949AB-nodesc-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-nodesc-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-nodesc-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-nodesc-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-nodesc-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-nodesc-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-795548-nodesc-normal">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-795548-nodesc-highlight">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-795548-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-795548-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-795548-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-817717-nodesc-normal">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-817717-nodesc-highlight">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-817717-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-817717-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-817717-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-nodesc-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-nodesc-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-nodesc-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-nodesc-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-nodesc-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-nodesc-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FBC02D-nodesc-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-nodesc-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FBC02D-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FBC02D-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FBC02D-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-nodesc-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-nodesc-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-nodesc-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-nodesc-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-nodesc-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-nodesc-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Line 1 / Line 2</name>
+      <Placemark>
+        <name>Quoc Lo 1A</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6013718,10.8153072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Son Ky</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6105556,10.8030404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Hung Hoa</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6139459,10.7940191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Son</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6191816,10.7843652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bon Xa</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6213703,10.7734041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Binh</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6320348,10.7699049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dam Sen</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6396952,10.7676705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lanh Binh Thang</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6500163,10.7637074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Tho</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6594362,10.7645085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanh Thai</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6672039,10.7682607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ly Thai To</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6744137,10.7677548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cong Hoa</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6816235,10.7652884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thai Binh</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6880608,10.7670802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Thanh market</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6983846,10.7715122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Opera House</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7026027,10.7759426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ba Son</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7073727,10.7816039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Van Thanh</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7150974,10.7941034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Cang</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7246246,10.7992464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thao Dien</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7337227,10.8005322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Phu</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7426276,10.8022184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rach Chiec</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7518973,10.8048636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phuoc Long</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7570257,10.8184265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Thai</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7641282,10.8339593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thu Duc</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7746639,10.8511351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Hi-Tech Park</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7880535,10.8592485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suoi Tien</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8019152,10.8670877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mien Dong</name>
+        <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8150838,10.8798194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nut Giao</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.819253,10.897705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ngai Thang Market</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8317628,10.8990957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Duyet</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8478024,10.9063228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cu Chi</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5007782,10.9681571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Phu Trung</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5531993,10.9307842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Thoi Nhi</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5757298,10.899201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoc Mon</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5869522,10.8827866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Xuan</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5979385,10.8670245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BX An Suong</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6136995,10.8423333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Thoi Nhat</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6205742,10.8330821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Binh</name>
+        <description>AKA Tham Lương</description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            106.6279837,10.8245397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Van Bach</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6322494,10.813326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ba Queo</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6359455,10.8023659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Hong Dao</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6439224,10.79736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Hien</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6528165,10.7928809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Van Hai</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6602516,10.7889604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Thi Rieng Park</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6646719,10.7864731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Hung</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6764307,10.7801706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan Chu</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.682235,10.7771562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tao Dan</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6897318,10.7736439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Thanh</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6984516,10.7714595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ham Nghi</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7059243,10.7709905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thu Thiem Square</name>
+        <description>quảng trường thủ thiêm</description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <Point>
+          <coordinates>
+            106.7126405,10.7726453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tran Nao</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7285513,10.7772089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Khanh</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7375099,10.7816882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Thu Thiem</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7475629,10.7910682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Trung</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7589998,10.7833535,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dong Van Cong</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7706943,10.7737625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cat Lai</name>
+        <styleUrl>#icon-1899-FFEA00-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7879248,10.7598708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Line 3</name>
+      <Placemark>
+        <name>Mien Tay Bus Station</name>
+        <description>maybe renamed An Lac when it moves.</description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            106.6190119,10.7410375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phú Lâm Park</name>
+        <description>Công viên Phú Lâm</description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            106.6241042,10.7456296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Lam</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6333866,10.7536731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cây Gõ</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6437616,10.7544161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cho Lon</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.650939,10.7528193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thuận Kiều</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6567277,10.7539166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Medicine and Pharmacy</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6616678,10.7545637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Binh Park</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6736594,10.7598295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cong Hoa</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6817629,10.7654254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thai Binh</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6877604,10.7670802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Thanh</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6983846,10.7715122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Chanh</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.577661,10.6900655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quan Trong Linh</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6093326,10.694894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham The Hien</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6243744,10.6989844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Van Hien University</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6454029,10.7093579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Hung</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6548443,10.720743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ta Quang Buu</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6658306,10.7345733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District 5 Cultural Center</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6688347,10.7512699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cong Hoa</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6816449,10.7654571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tao Dan</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6897345,10.7733198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Independence Palace</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.694423,10.7786001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>(Ho Con Rua) Turtle Lake</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6968377,10.7819336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Lu</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7016757,10.7869368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>So Thu (Saigon Zoo)</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7047441,10.7905412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thi Nghe</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7092019,10.7950572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hang Xanh</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7108917,10.8008273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xô Viết Nghệ Tĩnh
+</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7119646,10.8096692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Trieu</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7147219,10.8267094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiep Binh Phuoc</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7191422,10.84868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tam Binh</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7258263,10.865423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga An Binh</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7510819,10.8773711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Di An</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7602444,10.895598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Di An</name>
+        <styleUrl>#icon-1899-673AB7-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7688918,10.9076924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Line 4</name>
+      <Placemark>
+        <name>Thuận An</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.71167,10.9302095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lái Thiêu</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6999563,10.904865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Long</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6864085,10.892353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thạnh Lộc</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.680896,10.8816609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thạnh Xuân</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6764902,10.876034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nga Tu Ga</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6796262,10.8620928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Loc Bridge</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6782332,10.8498075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Nhom</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6769242,10.8436538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Luong</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.676023,10.8388909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Go Vap</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6793275,10.8270887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>175 Hospital</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6790485,10.817752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gia Dinh Park</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6778255,10.8099116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Nhuan</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6797352,10.7995204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cau Kieu</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6852069,10.7928177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Tam</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6923523,10.7879275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ho Con Rua (Turtle Lake)</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6964936,10.7825525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Notre Dame</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6982746,10.777894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben Thanh</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6983846,10.7715122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ong Lanh</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6974377,10.7638339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khanh Hoi</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6997015,10.757436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Hung</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7012143,10.7473698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Huu Tho</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7010964,10.7395487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Linh</name>
+        <description>PMY TAY</description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            106.69979,10.7275643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phuoc Kien</name>
+        <styleUrl>#icon-1899-558B2F-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7067825,10.7087571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Huu Lau</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7175007,10.6943247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ba Chiem</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7224145,10.6755163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Thoi</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7276716,10.6562639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiep Phuoc</name>
+        <styleUrl>#icon-1899-0F9D58-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7368127,10.6350489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Line 5 - Line 6</name>
+      <Placemark>
+        <name>Tan Cang</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7239809,10.7994151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hang Xanh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7115355,10.8011223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bà Chiểu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6988644,10.8016968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Dau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.686945,10.8034409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Nhuan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6803145,10.7998366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoang Van Thu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6691243,10.799668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lăng Cha Cả</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6610463,10.8004538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay Hien</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6528916,10.792765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cho Tan Binh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6528058,10.7858618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bac Hai</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.656239,10.7785053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bach Khoa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6582561,10.7711275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Tho</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6593075,10.7648247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Medicine and Pharmacy</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6608096,10.7545374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xom Cui</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6582346,10.7446082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District 8 Bus Station</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6565181,10.733477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Hung</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6548443,10.720743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phong Phu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6546726,10.7065748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trinh Quang Nghi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6546726,10.6935867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Da Phuoc</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6517973,10.6680728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Qui Duc Market</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6555524,10.6476601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Kim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6650581,10.6252636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BX Cần Giuộc</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6718702,10.6043546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanh Xuan</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6756368,10.8752216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>To Ngoc Van</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6704977,10.8621566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Van Chieu</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6641355,10.8544595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Tho</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6562444,10.8513748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thach Da Market</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6512394,10.8485219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Son</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6464329,10.839207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Tu Gian</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6431498,10.8306295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Van Bach</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6340304,10.8162345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ba Queo</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6356396,10.8021973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Au Co</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6370344,10.7973073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thong Nhat</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6371417,10.7901513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Phu</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6359079,10.7830162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Binh</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.632185,10.7694412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long The Vinh</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6322601,10.7639288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Lam</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6344166,10.7539261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hau Giang</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6354895,10.7478969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lo Gom</name>
+        <styleUrl>#icon-1899-795548-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6342449,10.7351636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Line 6</name>
+      <Placemark>
+        <name>Thu Dau Mot</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6578484,10.9877055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Chuan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7170715,10.9813018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Road DT 743</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7407608,10.9492817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dong Thanh Market</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7613173,10.9274132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Di An</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7674541,10.9088302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Di An Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7823887,10.9098836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cao Toc Tan Van</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8034172,10.9056697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nut Giao</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8185663,10.8979579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mien Dong</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8144035,10.8796258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoang Huu Nam</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8129758,10.8652307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Viet</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8129015,10.8507558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Thanh My</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8116493,10.8404873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Xuan Oai</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8036318,10.8301025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gia Hoa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7836547,10.8164874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phuoc Binh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7750468,10.810507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New An Phu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7614856,10.8011487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Thu Thiem</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7490401,10.7933078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Monorail 2 / Line 14</name>
+      <Placemark>
+        <name>Thanh Da</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7451382,10.8183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thao Dien</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7341089,10.800469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh An</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7308259,10.7911736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luong Dinh Cua</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7290235,10.7852295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mai Chi Tho</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7277146,10.7764396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nam Thu Thiem</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7270708,10.765436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Huynh Tan Phat</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7270279,10.7553596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Thuan Tay</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7229295,10.749362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Thi Thap</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7219639,10.7384523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu My Hung</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7167282,10.7306519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Duc Canh</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7091107,10.7280272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Linh</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7015362,10.7276582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RMIT</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.694026,10.7276161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cau Ong Be</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6842198,10.7273841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Hung</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6758728,10.7271522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rach Hiep An</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6642213,10.7241374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Hung</name>
+        <styleUrl>#icon-1899-9C27B0-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6560888,10.7208484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vinh Loc</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6022301,10.8166561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tay Thanh</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6178083,10.8090263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Celadon City</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.61901,10.8008905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Go Dau</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6286016,10.7957897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thong Nhat</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6368199,10.7895084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thoai Ngoc Hau</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6412401,10.7849976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tran Van Quang</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6446519,10.7799598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lac Long Quan</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6495228,10.7790323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bac Hai</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6564751,10.7777465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanh Thai</name>
+        <description>Former Sai Gon Plaza proposal.</description>
+        <styleUrl>#icon-1899-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            106.6629124,10.7763552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vietnam Financial Center</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6720963,10.7738257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cao Thang</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6777396,10.774163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan Chu</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6814947,10.7770508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Truong Dinh</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6868591,10.7799597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marie Curie</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6907322,10.7829635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Tam</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6939723,10.7864415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dinh Tien Hoang</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6975343,10.7901934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dakao</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6999269,10.7923434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Cuu Van</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7042184,10.7965485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dien Bien Phu</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7068362,10.7991621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hang Xanh</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7103767,10.8005954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vo Viet Nghe Tinh</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7115784,10.8095743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Quoi</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7384434,10.827995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanh Da</name>
+        <styleUrl>#icon-1899-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7443657,10.8183843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>L4 (old railway alignment) / L3 Blue</name>
+      <Placemark>
+        <name>Cay Go</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6429138,10.754432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Tho</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.659565,10.7642555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thanh Thai</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6677189,10.7672489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cau Thang</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6777826,10.7730247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dan Chu</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6814518,10.7779151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Railway Station</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6771786,10.7823643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thi Nghe Canal</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6709028,10.7871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Troi</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6741347,10.7961058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thich Quang Duc</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6801,10.8066868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pham Van Dong</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6858506,10.8172673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phan Van Tri</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6931677,10.8220516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Loi</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7029953,10.824117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Trieu</name>
+        <styleUrl>#icon-1899-BDBDBD-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7138958,10.8269412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Trieu</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7141962,10.8257188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Loi</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7028666,10.823822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phan Van Tri</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6932106,10.8217987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoang Dieu</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7073512,10.7656468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xom Chieu</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7120504,10.7607562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cang Cu</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7185038,10.7570987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Thuan Tay</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7222643,10.7499207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Thi Thap</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7211056,10.7389583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cong Vien Nam Sai Gon</name>
+        <description>Saigon South Park</description>
+        <styleUrl>#icon-1899-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            106.7299247,10.7192673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Xuan</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7375851,10.7005026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nha Be</name>
+        <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7482281,10.678342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>L5 (orange) / L6 (green)</name>
+      <Placemark>
+        <name>Quang Trung Software City
+</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6280249,10.8517453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Đường Phan Huy Ích</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6393805,10.8439573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Son</name>
+        <description>On metro map as Nga Ba Phi Truong.</description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            106.6468942,10.8392281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanh Thong Tay</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.658688,10.8356664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thong Nhat</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6645432,10.8338961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Xom Thuoc</name>
+        <styleUrl>#icon-1899-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6720319,10.828838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Go Vap</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6794991,10.8269833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Thai Son</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6893107,10.8260402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phan Van Tri</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6931677,10.8220516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Loi</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7027807,10.8241381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Trieu</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7135954,10.8264354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiệp Bình Chánh</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7327854,10.8381682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Linh Dong</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7433787,10.8404083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kha Van Can</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7549014,10.8504398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>To Van Kien</name>
+        <styleUrl>#icon-1899-FBC02D-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7651474,10.8505029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thu Duc</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7746639,10.8511351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiep Phu</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7810017,10.845121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Man Thien</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7999274,10.8472495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Van Kiet</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8142748,10.8507137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VinCity Grand Park</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8320524,10.8482901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phuoc Thien</name>
+        <styleUrl>#icon-1899-F9A825-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8467295,10.8481215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Son Nhat </name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6647577,10.814717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoang Van Thu</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6686201,10.7999631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Troi</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6739202,10.7962112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cong Ly Bridge</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6811299,10.7917216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ly Chinh Thang</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6853558,10.7885994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marie Curie</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6909039,10.7827633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Independence Palace</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6949487,10.7793274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Notre Dame</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6983819,10.7784421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Me Linh</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7054415,10.7756807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thu Thiem Square</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7126083,10.7758493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Co Thach</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7214274,10.7812667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bac Thu Thiem</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7299461,10.7858407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hue Nghiem Pagoda</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7390442,10.7893187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Thu Thiem</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7470908,10.7917427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Do Xuan Hop</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7796206,10.7972282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vo Chi Cong</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7947424,10.7969411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Truong</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8212211,10.7929363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dai Phuoc Bridge</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8430783,10.7501291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swan Park</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8582201,10.7225272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nhon Trach</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.9123211,10.7328843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long An</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.951654,10.7424768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Thanh International Airport</name>
+        <styleUrl>#icon-1899-FF5252-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.9911362,10.749391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>L1</name>
+      <Placemark>
+        <name>Ba Son</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7070508,10.7813615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Me Linh</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7062676,10.7752275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ngan Hang</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7034888,10.7689669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calmette</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7007315,10.7664689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ho Hao Hon</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6935754,10.7598392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Canh Chan</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6896808,10.7570144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nguyen Van Cu</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6867733,10.7547271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoa Binh Market</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6763449,10.751818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District 5 Cultural Center</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6696501,10.7506164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan Da</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6647846,10.7507745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cau Cha Va</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.660552,10.7495201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Tay</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6519046,10.7452617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Tien</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6438472,10.7405922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lo Gom</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6352749,10.7354798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phu Lam D</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6312838,10.736302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Phu Market</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6262841,10.7384313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>An Duong Vuong</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6218638,10.7385578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mien Tay</name>
+        <styleUrl>#icon-1899-817717-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6196109,10.7405605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Regional</name>
+      <Placemark>
+        <name>Bien Hoa - Vung Tau</name>
+        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            106.8228149,10.9897276,0
+            106.9985962,10.7766503,0
+            107.1304321,10.4608037,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Bien Hoa Railway Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8263579,10.9508209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sân bay Long Thành</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            107.0025712,10.740021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vũng Tàu</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            107.136224,10.4113797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Thu Thiem</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7475629,10.7910682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Thanh</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            107.0001411,10.7407292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Long Khanh</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            107.2444341,10.933527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phan Thiet Railway Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            108.0823529,10.9418266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tuy Phong</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            108.6664581,11.260235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thap Cham station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            108.9500331,11.5973105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nha Trang Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            109.1842369,12.2484625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Khanh - My Tho</name>
+        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            107.2457886,10.9438884,0
+            106.8262482,10.9600678,0
+            106.7706299,10.9209662,0
+            106.700592,10.8899509,0
+            106.6744995,10.8872538,0
+            106.627121,10.8805108,0
+            106.5965652,10.8083518,0
+            106.5811157,10.7280799,0
+            106.5800857,10.6946831,0
+            106.4084244,10.5414836,0
+            106.3473129,10.3743619,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ga Long Khanh</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            107.2444341,10.933527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bien Hoa Railway Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.8263579,10.9508209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Di An</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.7694363,10.907943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vĩnh Phú</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6997752,10.8775941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thạnh Xuân</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6757178,10.8762237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tân Chánh Hiệp</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6261831,10.866797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vinh Loc</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5977668,10.8122299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ga Tan Kien</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5839053,10.7162312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Binh Chanh</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.5778542,10.6905083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tan An</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.4077377,10.5360831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>My Tho</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.3473129,10.3679453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saigon Railway Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.6771786,10.7823643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Củ Chi</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.4965434,10.972192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moc Bai</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            106.1756516,11.0763307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cambodia Railway Station</name>
+        <styleUrl>#icon-1899-000000-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            104.9164368,11.5724649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
